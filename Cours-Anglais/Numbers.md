@@ -3,77 +3,77 @@
 
 ## **NUMBERS :**
 
-    * 1 =  ONE
+    1 =  ONE
 
-    * 2 =  TWO
+    2 =  TWO
 
-    * 3 =  THREE
+    3 =  THREE
 
-    * 4 =  FOUR
+    4 =  FOUR
 
-    * 5 =  FIVE
+    5 =  FIVE
 
-    * 6 =  SIX
+    6 =  SIX
 
-    * 7 =  SEVEN
+    7 =  SEVEN
 
-    * 8 =  EIGHT
+    8 =  EIGHT
 
-    * 9 =  NINE
+    9 =  NINE
 
-    * 10 =  TEN
+    10 =  TEN
 
-    * 11 = ELEVEN
+    11 = ELEVEN
 
-    * 12 = TWELVE
+    12 = TWELVE
 
-    * 13 =  THIRTEEN
+    13 =  THIRTEEN
 
-    * 14 =  FOURTEEN
+    14 =  FOURTEEN
 
-    * 15 =  FIFTEEN
+    15 =  FIFTEEN
 
-    * 16 = SIXTEEN
+    16 = SIXTEEN
 
-    * 17 =  SEVENTEEN
+    17 =  SEVENTEEN
 
-    * 18 =  EIGHTEEN
+    18 =  EIGHTEEN
 
-    * 19 =  NINETEEN
+    19 =  NINETEEN
 
-    * 20 =  TWENTY
+    20 =  TWENTY
 
-    * 30 =  THIRTY
+    30 =  THIRTY
 
-    * 40 =  FOURTY
+    40 =  FOURTY
 
-    * 50 =  FIFTY
+    50 =  FIFTY
 
-    * 60 =  SIXTY
+    60 =  SIXTY
 
-    * 70 =  SEVENTY
+    70 =  SEVENTY
 
-    * 80 =  EIGHTY
+    80 =  EIGHTY
 
-    * 90 =  NINETY
+    90 =  NINETY
 
-    * 100 = ONE HUNDRED
+    100 = ONE HUNDRED
 
-    * 200 = TWO HUNDRED
+    200 = TWO HUNDRED
 
-    * 300 = THREE HUNDRED
+    300 = THREE HUNDRED
 
-    * 400 = FOUR HUNDRED
+    400 = FOUR HUNDRED
 
-    * 500 =  FIVE HUNDRED
+    500 =  FIVE HUNDRED
 
-    * 600 =  SIX HUNDRED
+    600 =  SIX HUNDRED
 
-    * 700 =  SEVEN HUNDRED
+    700 =  SEVEN HUNDRED
 
-    * 800 =  EIGHT HUNDRED
+    800 =  EIGHT HUNDRED
 
-    * 900 =  NINE HUNDRED
+    900 =  NINE HUNDRED
 
-    * 1000 =  ONE THOUSAND
+    1000 =  ONE THOUSAND
 ---
