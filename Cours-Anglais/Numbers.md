@@ -3,81 +3,77 @@
 
 ## **NUMBERS :**
 
-    * 1 =  one
+    * 1 =  ONE
 
-    * 2 =  two
+    * 2 =  TWO
 
-    * 3 =  three
-    
-    * 4 =  four
+    * 3 =  THREE
 
-    * 5 =  five 
+    * 4 =  FOUR
 
-    * 6 =  six
+    * 5 =  FIVE
 
-    * 7 =  seven
+    * 6 =  SIX
 
-    * 8 =  eight
+    * 7 =  SEVEN
 
-    * 9 =  nine
+    * 8 =  EIGHT
 
-    * 10 =  ten
+    * 9 =  NINE
 
-    * 11 = eleven
+    * 10 =  TEN
 
-    * 12 = twelve
+    * 11 = ELEVEN
 
-    * 13 =  thirteen
+    * 12 = TWELVE
 
-    * 14 =  fourteen
+    * 13 =  THIRTEEN
 
-    * 15 =  fifteen
+    * 14 =  FOURTEEN
 
-    * 16 = sixteen
+    * 15 =  FIFTEEN
 
-    * 17 =  seventeen
+    * 16 = SIXTEEN
 
-    * 18 =  eighteen
+    * 17 =  SEVENTEEN
 
-    * 19 =  nineteen
+    * 18 =  EIGHTEEN
 
-    * 20 =  twenty
+    * 19 =  NINETEEN
 
-    * 21 =  twenty one
+    * 20 =  TWENTY
 
-    * 22 =  twenty two
+    * 30 =  THIRTY
 
-    * 30 =  thirty
+    * 40 =  FOURTY
 
-    * 40 =  fourty
+    * 50 =  FIFTY
 
-    * 50 =  fifty
+    * 60 =  SIXTY
 
-    * 60 =  sixty
+    * 70 =  SEVENTY
 
-    * 70 =  seventy
+    * 80 =  EIGHTY
 
-    * 80 =  eighty
+    * 90 =  NINETY
 
-    * 90 =  ninety
+    * 100 = ONE HUNDRED
 
-    * 100 = one hundred
+    * 200 = TWO HUNDRED
 
-    * 200 = two hunbred
+    * 300 = THREE HUNDRED
 
-    * 300 = three hunbred
+    * 400 = FOUR HUNDRED
 
-    * 400 =  four hunbred
+    * 500 =  FIVE HUNDRED
 
-    * 500 =  five hunbred
+    * 600 =  SIX HUNDRED
 
-    * 600 =  six hunbred
+    * 700 =  SEVEN HUNDRED
 
-    * 700 =  seven hunbred
+    * 800 =  EIGHT HUNDRED
 
-    * 800 =  eight hunbred
+    * 900 =  NINE HUNDRED
 
-    * 900 =  nine hunbred
-
-    * 1000 =  one thousand
+    * 1000 =  ONE THOUSAND
 ---
