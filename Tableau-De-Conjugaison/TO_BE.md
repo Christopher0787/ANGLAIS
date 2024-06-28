@@ -8,79 +8,84 @@
 ### **Present Simple :**
 
 
-I = Am
+    I = Am
 
-You = Are
+    You = Are
 
-He/She/It = Is
+    He/She/It = Is
 
-We  =  Are
+    We  =  Are
 
-You  =  Are
+    You  =  Are
 
-They  = Are
+    They  = Are
+
 ---
 
 ### **Present Continuous :**
 
 
-I  = Am being
+    I  = Am being
 
-You  = Are Being
+    You  = Are Being
 
-He/She/It  =  Is being
+    He/She/It  =  Is being
 
-We  = Are being 
+    We  = Are being 
 
-You  =  Are being
+    You  =  Are being
 
-They  =  Are being
+    They  =  Are being
+
 ---
 
 ### **Past Simple :**
 
 
-I  = Was
+    I  = Was
 
-You  =  Were
+    You  =  Were
 
-He/She/It  =  Was
+    He/She/It  =  Was
 
-We  =  Were
+    We  =  Were
 
-You  =  Were
+    You  =  Were
 
-They  =  Were
+    They  =  Were
+
 ---
 
 ### **Past Continuous :**
 
 
-I =  Was been
+    I =  Was been
 
-You  =  Were been
+    You  =  Were been
 
-He/She/It  =  Was been
+    He/She/It  =  Was been
 
-We  =  Were been
+    We  =  Were been
 
-You  =  Were been
+    You  =  Were been
 
-They  =  Were been
+    They  =  Were been
+
 ---
 
 ### **Future Simple :**
 
 
-I  =  Will be
+    I  =  Will be
 
-You  =  will be
+    You  =  will be
 
-He/She/It = Will be
+    He/She/It = Will be
 
-We  =  Will be
+    We  =  Will be
 
-You  =  Will be
+    You  =  Will be
 
-They  =  Will be
+    They  =  Will be
+
 ---
